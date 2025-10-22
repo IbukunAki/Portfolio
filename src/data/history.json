@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Tech & Innovation Participant",
+    "organisation": "INCiTE Summer School (Cambodia)",
+    "startDate": "Jul, 2025",
+    "endDate": "Jul, 2025",
+    "experiences": ["Designed Sok Sabai, a mental health app concept for Cambodian students", "Collaborated with international teams to prototype and present to stakeholders"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Participant",
+    "organisation": "Sutton Trust Careers Plus: Tech & Digital Programme",
+    "startDate": "Apr, 2025",
+    "endDate": "Sept, 2025",
+    "experiences": ["Completed a 6-month programme exploring software, AI, and cybersecurity", "Attended in-person insight days with BAE Systems, McKinsey, and Samsung"],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "Hackathon Participant",
+    "organisation": "Canon Medical Research Europe",
+    "startDate": "Nov, 2024",
+    "endDate": "Nov, 2024",
+    "experiences": [
+      "Co-developed a healthcare prototype focused on patient triage and accessibility",
+      "Contributed to system logic and user interface design"
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]

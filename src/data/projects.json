@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Sok Sabai – Mental Health App Concept",
+    "imageSrc": "projects/project.png",
+    "description": "Created a concept for a mental health support app during the INCiTE Summer School in Cambodia, focusing on student wellbeing and accessibility. Designed visuals and app layout using Canva.",
+    "skills": ["UI/UX", "Canva", "Team Collaboration"],
+    "demo": "https://www.canva.com/design/DAGtfwyYltM/iCt-ymsQPUEh9C01WBqTBA/view?utm_content=DAGtfwyYltM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc23c66d245",
+    "source": "https://www.github.com"
+  },
+  {
+  "title": "Personal Portfolio Website",
+  "imageSrc": "projects/project.png",
+  "description": "Developed a responsive personal portfolio using React, Vite, and CSS Modules to showcase my projects, experience, and contact information. The site is designed for both desktop and mobile and deployed using Netlify.",
+  "skills": ["React", "Vite", "CSS Modules", "JavaScript"],
+  "demo": "https://<your-netlify-site>.netlify.app",
+  "source": "https://github.com/<your-username>/<your-repo>"
+  },
+  {
+    "title": "SEPP Coursework – FAQ & Inquiry System",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a Java-based system for managing FAQs and inquiries as part of a Software Engineering Practical Project (SEPP) coursework at university.",
+    "skills": ["Java", "Object Oriented Programming", "Teamwork"],
+    "demo": "https://github.com/Edin27/CW3SEImplementationGroup7",
+    "source": "https://www.github.com"
+  }
+]
