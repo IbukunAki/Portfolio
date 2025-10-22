@@ -12,8 +12,8 @@
   "imageSrc": "projects/project.png",
   "description": "Developed a responsive personal portfolio using React, Vite, and CSS Modules to showcase my projects, experience, and contact information. The site is designed for both desktop and mobile and deployed using Netlify.",
   "skills": ["React", "Vite", "CSS Modules", "JavaScript"],
-  "demo": "https://<your-netlify-site>.netlify.app",
-  "source": "https://github.com/<your-username>/<your-repo>"
+  "demo": "https://example.netlify.app",
+  "source": "https://github.com/IbukunAki/Portfolio"
   },
   {
     "title": "SEPP Coursework – FAQ & Inquiry System",
