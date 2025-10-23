@@ -109,8 +109,10 @@
   list-style-position: inside;
   font-size: 25px;
   list-style-type: disc;
+  padding-left: 2em;        /* creates space for bullet */
+  text-indent: -1.4em;        /* aligns wrapped lines under the text */
   margin-left: 17px;
-  line-height: 1.4;
+  line-height: 1.6;
 }
 
 /* Responsive stacking */
