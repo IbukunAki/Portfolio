@@ -1,0 +1,22 @@
+.footer {
+  width: 100%;
+  text-align: center;
+  color: var(--color-text);
+  background-color: #0b2447;
+  font-size: 14px;
+  font-weight: 300;
+  opacity: 0.8;
+  padding: 8px 0;
+  position: relative;
+  bottom: 0;
+  left: 0;
+}
+
+.footer p {
+  margin: 0;
+}
+
+
+.text:hover {
+  opacity: 1;
+}
