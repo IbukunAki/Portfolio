@@ -16,14 +16,14 @@
     "imageSrc": "history/sutton trust.png"
   },
   {
-    "role": "Hackathon Participant",
+    "role": "CodeRetreat Participant",
     "organisation": "Canon Medical Research Europe",
     "startDate": "Nov, 2024",
     "endDate": "Nov, 2024",
     "experiences": [
-      "Co-developed a healthcare prototype focused on patient triage and accessibility",
-      "Contributed to system logic and user interface design"
-    ],
-    "imageSrc": "history/canon.png"
+      "Participated in a Code Retreat focused on improving software design and collaboration",
+      "Practiced refactoring and pair programming through multiple coding iterations",
+      "Applied problem-solving and clean coding techniques in a team environment"],
+      "imageSrc": "history/canon.png"
   }
 ]
