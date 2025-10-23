@@ -12,7 +12,7 @@
   "imageSrc": "projects/project.png",
   "description": "Developed a responsive personal portfolio using React, Vite, and CSS Modules to showcase my projects, experience, and contact information. The site is designed for both desktop and mobile and deployed using Netlify.",
   "skills": ["React", "Vite", "CSS Modules", "JavaScript"],
-  "demo": "https://ibukunoluwa-akiode-portfolio.netlify.app/",
+  "demo": "https://ibukunoluwa-akiode.netlify.app/",
   "source": "https://github.com/IbukunAki/Portfolio"
   },
   {
