@@ -17,7 +17,7 @@
   },
   {
     "title": "Canva",
-    "imageSrc": "skills/Canva.png"
+    "imageSrc": "skills/canva.png"
   },
   {
     "title": "React",
@@ -26,5 +26,13 @@
   {
     "title": "Node.js",
     "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
   }
 ]
